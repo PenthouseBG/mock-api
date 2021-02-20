@@ -10,6 +10,6 @@ const result = jsonMerger.mergeFiles([
   'reservations.json'
 ])
 
-jsonfile.writeFile('db.json', result, { spaces: 2 }, (err, result) => {
+jsonfile.writeFile('db.json', result, (err, result) => {
   if (err) { console.error(err) }
 })
