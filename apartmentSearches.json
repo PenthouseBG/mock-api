@@ -161,33 +161,10 @@
             "Изток"
           ]
         },
-        "rules": [
-          "Smoking Allowed",
-          "Pets Allowed"
-        ],
-        "amenities": [
-          "Essentials",
-          "View",
-          "Washer",
-          "Dryer",
-          "Cooker",
-          "Beds",
-          "Sofa",
-          "TV"
-        ],
-        "locationAmenities": [
-          "Near Mall",
-          "Near Cinema",
-          "Near Kindergarten",
-          "Near Transport",
-          "Near Subway"
-        ],
-        "specifics": [
-          "Multiple Bathrooms",
-          "Water",
-          "Electricity",
-          "Basement"
-        ]
+        "rules": [],
+        "amenities": [],
+        "locationAmenities": [],
+        "specifics": []
       },
       "userId": "WK3q3r8MCtlnRxxGNTN9"
     }
