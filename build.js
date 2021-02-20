@@ -6,7 +6,8 @@ const result = jsonMerger.mergeFiles([
   'config.json', 
   'users.json',
   'apartments.json',
-  'apartmentSearches.json'
+  'apartmentSearches.json',
+  'reservations.json'
 ])
 
 jsonfile.writeFile('db.json', result, { spaces: 2 }, (err, result) => {

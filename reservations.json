@@ -1,0 +1,39 @@
+{
+  "reservations": [
+    {
+      "apartmentId": "IHUJwgZjBrDdyZn0BDLQ",
+      "from": 1618606800,
+      "to": 1623877200
+    },
+    {
+      "apartmentId": "IHUJwgZjBrDdyZn0BDLQ",
+      "from": 1621458000,
+      "to": 1652994000
+    },
+    {
+      "apartmentId": "zHPTSE5J5g5qffB0jxDp",
+      "from": 1618606800,
+      "to": 1642197600
+    },
+    {
+      "apartmentId": "zHPTSE5J5g5qffB0jxDp",
+      "from": 1582149600,
+      "to": 1595192400
+    },
+    {
+      "apartmentId": "zHPTSE5J5g5qffB0jxDp",
+      "from": 1596229200,
+      "to": 1611352800
+    },
+    {
+      "apartmentId": "dx60hvDP7IVoRBS2gVn9",
+      "from": 1580594400,
+      "to": 1626296400
+    },
+    {
+      "apartmentId": "avpc50jCNaCOGDWom3Z3",
+      "from": 1626382800,
+      "to": 1634331600
+    }
+  ]
+}
