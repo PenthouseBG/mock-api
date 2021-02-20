@@ -1,0 +1,71 @@
+{
+  "config": [
+    {
+      "id": "apartment",
+      "allowedRules": [
+        "Smoking Allowed",
+        "Pets Allowed",
+        "Parties Allowed",
+        "Noise Down"
+      ],
+      "allowedSpecifics": [
+        "Stairs",
+        "Hot Water",
+        "Multiple Bathrooms",
+        "Water",
+        "Electricity",
+        "Sewage",
+        "Wifi",
+        "5G",
+        "Gas",
+        "PO Box",
+        "Basement",
+        "Bike Rack",
+        "Elevator",
+        "Garage",
+        "Parking",
+        "Garden",
+        "Private Entrance",
+        "Guarded Entrance",
+        "Disabled Access",
+        "Multiple Toilets"
+      ],
+      "allowedLocationAmenities": [
+        "Nice Neighbourhood",
+        "Near Supermarket",
+        "Near Mall",
+        "Near Cinema",
+        "Near Kindergarten",
+        "Near Transport",
+        "Near Subway",
+        "Quiet Area",
+        "Central Location"
+      ],
+      "allowedAmenities": [
+        "Essentials",
+        "View",
+        "Washer",
+        "Dryer",
+        "Cooker",
+        "Beds",
+        "Sofa",
+        "TV",
+        "Extra Pillows",
+        "Iron",
+        "Hangers",
+        "Bed Linens",
+        "Dedicated Work Space",
+        "Oven",
+        "Stove",
+        "Microwave",
+        "Dishes And Silverware",
+        "Cooking Basics",
+        "Refrigerator",
+        "Smoke Alarm",
+        "Carbon Monoxide Alarm",
+        "replace",
+        "SOT"
+      ]
+    }
+  ]
+}

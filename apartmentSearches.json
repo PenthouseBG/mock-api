@@ -1,0 +1,195 @@
+{
+  "apartmentSearches": [
+    {
+      "id": "avpc50jCNaCOGDWom3Z3",
+      "active": false,
+      "criteria": {
+        "stay": {
+          "from": 1618606800,
+          "to": 1623877200
+        },
+        "bedroomCount": 1,
+        "apartmentTypes": [
+          "Двустаен",
+          "Тристаен"
+        ],
+        "maxRentPerMonth": 537,
+        "mustBeFurnished": false,
+        "buildingTypes": [
+          "Панел",
+          "Тухла"
+        ],
+        "floor": {
+          "first": true,
+          "middle": true,
+          "top": true
+        },
+        "minSquareMeters": 50,
+        "mustBeRefurbished": true,
+        "mustHaveBillsIncluded": false,
+        "address": {
+          "country": "Bulgaria",
+          "city": "Sofia",
+          "cityLocations": [
+            "Център",
+            "Изток"
+          ]
+        },
+        "rules": [
+          "Smoking Allowed",
+          "Pets Allowed",
+          "Parties Allowed",
+          "Noise Down"
+        ],
+        "amenities": [
+          "View"
+        ],
+        "locationAmenities": [
+          "Near Supermarket",
+          "Near Mall",
+          "Near Cinema"
+        ],
+        "specifics": [
+          "Multiple Bathrooms",
+          "Water",
+          "Electricity",
+          "Basement",
+          "Bike Rack",
+          "Elevator",
+          "Garage",
+          "Parking"
+        ]
+      },
+      "userId": "GbN4xu68prtMmxOO5AXG"
+    }, {
+      "id": "NmRcnJkb4KCg0jbR9K9K",
+      "active": true,
+      "criteria": {
+        "stay": {
+          "from": 1618606800,
+          "to": 1623877200
+        },
+        "bedroomCount": 1,
+        "apartmentTypes": [
+          "Двустаен",
+          "Тристаен"
+        ],
+        "maxRentPerMonth": 1000,
+        "mustBeFurnished": true,
+        "buildingTypes": [
+          "ЕПК",
+          "Тухла"
+        ],
+        "floor": {
+          "first": true,
+          "middle": true,
+          "top": true
+        },
+        "minSquareMeters": 50,
+        "mustBeRefurbished": true,
+        "mustHaveBillsIncluded": false,
+        "address": {
+          "country": "Bulgaria",
+          "city": "Sofia",
+          "cityLocations": [
+            "Център",
+            "Изток"
+          ]
+        },
+        "rules": [
+          "Smoking Allowed",
+          "Pets Allowed",
+          "Parties Allowed",
+          "Noise Down"
+        ],
+        "amenities": [
+          "View",
+          "Oven",
+          "Stove",
+          "Microwave",
+          "Dishes And Silverware"
+        ],
+        "locationAmenities": [
+          "Near Supermarket",
+          "Near Mall",
+          "Near Cinema"
+        ],
+        "specifics": [
+          "Multiple Bathrooms",
+          "Water",
+          "Electricity",
+          "Basement",
+          "Bike Rack",
+          "Elevator",
+          "Garage",
+          "Parking"
+        ]
+      },
+      "userId": "GbN4xu68prtMmxOO5AXG"
+    }, {
+      "id": "xE7cp1JhoNo163gKLkVu",
+      "active": true,
+      "criteria": {
+        "stay": {
+          "from": 1621458000,
+          "to": 1652994000
+        },
+        "bedroomCount": 2,
+        "apartmentTypes": [
+          "Двустаен",
+          "Тристаен"
+        ],
+        "maxRentPerMonth": 537,
+        "mustBeFurnished": false,
+        "buildingTypes": [
+          "Панел",
+          "Тухла"
+        ],
+        "floor": {
+          "first": false,
+          "middle": true,
+          "top": false
+        },
+        "minSquareMeters": 75,
+        "mustBeRefurbished": false,
+        "mustHaveBillsIncluded": true,
+        "address": {
+          "country": "Bulgaria",
+          "city": "Sofia",
+          "cityLocations": [
+            "Младост",
+            "Изток"
+          ]
+        },
+        "rules": [
+          "Smoking Allowed",
+          "Pets Allowed"
+        ],
+        "amenities": [
+          "Essentials",
+          "View",
+          "Washer",
+          "Dryer",
+          "Cooker",
+          "Beds",
+          "Sofa",
+          "TV"
+        ],
+        "locationAmenities": [
+          "Near Mall",
+          "Near Cinema",
+          "Near Kindergarten",
+          "Near Transport",
+          "Near Subway"
+        ],
+        "specifics": [
+          "Multiple Bathrooms",
+          "Water",
+          "Electricity",
+          "Basement"
+        ]
+      },
+      "userId": "WK3q3r8MCtlnRxxGNTN9"
+    }
+  ]
+}
