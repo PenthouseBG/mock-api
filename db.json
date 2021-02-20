@@ -133,7 +133,7 @@
         "Iron",
         "Hangers",
         "Bed Linens",
-        "Dedicated Work Space",
+        "Dedicated Work Space"
       ],
       "locationAmenities": [
         "Near Supermarket",
@@ -186,12 +186,12 @@
         "Noise Down"
       ],
       "amenities": [
-        "View",
+        "View"
       ],
       "locationAmenities": [
         "Near Supermarket",
         "Near Mall",
-        "Near Cinema",
+        "Near Cinema"
       ],
       "specifics": [
         "Multiple Bathrooms",
